@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import TagView from "./components/TagView";
 import type { TagNode, SavedTree } from "./types";
 import "./App.css";
