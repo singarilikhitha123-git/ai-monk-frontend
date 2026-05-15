@@ -1,0 +1,20 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #fff;
+  color: #222;
+}
+
+#root {
+  width: 100%;
+}
+
+button {
+  color: #222;
+  background: #fff;
+  cursor: pointer;
+}
